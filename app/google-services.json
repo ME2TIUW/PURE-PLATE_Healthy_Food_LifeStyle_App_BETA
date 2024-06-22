@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "333160011200",
+    "project_id": "pureplate-4c806",
+    "storage_bucket": "pureplate-4c806.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:333160011200:android:d4ba9a4e0f96e8aaf2a425",
+        "android_client_info": {
+          "package_name": "com.example.pureplate"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDn6RPaWcvyYZAcmKYJh2XTPdsbLuDQGso"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
